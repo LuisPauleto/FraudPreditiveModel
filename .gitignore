@@ -1,0 +1,3 @@
+# Ignorar o dataset local ou baixado
+*.csv
+*.xlsx
