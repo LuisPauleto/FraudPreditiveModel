@@ -5,6 +5,9 @@ Este projeto aborda o desenvolvimento de um pipeline de Ciência de Dados para i
 ## Dataset utilizado:
 * Fraud Detection Dataset: https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
 
+## Link do repositório:
+* GOOGLE COLAB: https://colab.research.google.com/drive/1SgEVu-fcg64BkmZCPE0HfLTS0VZ8INQp?usp=sharing
+
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 * **Linguagem:** Python
 * **Manipulação e Análise:** Pandas, NumPy
